@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Working with REST APIs",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "pfrenssen",
+    "githubRepository": "rest-api-presentation"
+  }
+}
